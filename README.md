@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats-ten-ecru-51.vercel.app/api/top-langs/?username=KindNeighbor&langs_count=10&layout=donut-vertical&theme=dark)](https://github.com/KindNeighbor/KindNeighbor)
+[![Top Langs](https://github-readme-stats-ten-ecru-51.vercel.app/api/top-langs/?username=KindNeighbor&langs_count=10&layout=compact&theme=dark)](https://github.com/KindNeighbor/KindNeighbor)
 
 ![KindNeighbor's GitHub stats](https://github-readme-stats-ten-ecru-51.vercel.app/api?username=KindNeighbor&theme=dark&show_icons=true)
