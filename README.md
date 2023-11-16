@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 기술 스택
+### 🌱STACK
 
-- Backend: ![Java](https://img.shields.io/badge/-Java-orange) ![Spring](https://img.shields.io/badge/-Spring-brightgreen) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-- Frontend: ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![JSP](https://img.shields.io/badge/-JSP-green) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-brightgreen)
-- Database: ![Oracle](https://img.shields.io/badge/-Oracle-red) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- Tool: ![GitHub](https://img.shields.io/badge/-GitHub-black) ![TortoiseSVN](https://img.shields.io/badge/-TortoiseSVN-blue)
-- CI/CD: ![Docker](https://img.shields.io/badge/-Docker-blue)
+  - ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-brightgreen?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-green?style=for-the-badge&logo=java&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-brightgreen?style=for-the-badge&logo=thymeleaf&logoColor=white)
+  - ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white) ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-blue?style=for-the-badge&logo=svn&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-ten-ecru-51.vercel.app/api/top-langs/?username=KindNeighbor&langs_count=10&layout=compact&theme=dark)](https://github.com/KindNeighbor/KindNeighbor)
 
