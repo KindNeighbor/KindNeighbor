@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
   - ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-brightgreen?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring&logoColor=white)
   - ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-green?style=for-the-badge&logo=java&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-brightgreen?style=for-the-badge&logo=thymeleaf&logoColor=white)
+  - ![MyBatis](https://img.shields.io/badge/MyBatis-blue?style=for-the-badge) ![JPA](https://img.shields.io/badge/JPA-red?style=for-the-badge)
   - ![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white) ![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-blue?style=for-the-badge&logo=svn&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
