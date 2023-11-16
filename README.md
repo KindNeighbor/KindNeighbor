@@ -12,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 기술 스택
+
+- Backend: ![Java](https://img.shields.io/badge/-Java-orange) ![Spring](https://img.shields.io/badge/-Spring-brightgreen) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
+- Frontend: ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![JSP](https://img.shields.io/badge/-JSP-green) ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-brightgreen)
+- Database: ![Oracle](https://img.shields.io/badge/-Oracle-red) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- Tool: ![GitHub](https://img.shields.io/badge/-GitHub-black) ![TortoiseSVN](https://img.shields.io/badge/-TortoiseSVN-blue)
+- CI/CD: ![Docker](https://img.shields.io/badge/-Docker-blue)
+
 [![Top Langs](https://github-readme-stats-ten-ecru-51.vercel.app/api/top-langs/?username=KindNeighbor&langs_count=10&layout=compact&theme=dark)](https://github.com/KindNeighbor/KindNeighbor)
 
 ![KindNeighbor's GitHub stats](https://github-readme-stats-ten-ecru-51.vercel.app/api?username=KindNeighbor&theme=dark&show_icons=true)
