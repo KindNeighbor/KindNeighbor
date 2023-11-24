@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge"> <img src="https://img.shields.io/badge/JPA-F80000?style=for-the-badge">
 
 
-[![Top Langs](https://github-readme-stats-ten-ecru-51.vercel.app/api/top-langs/?username=KindNeighbor&langs_count=10&layout=compact&theme=dark)](https://github.com/KindNeighbor/KindNeighbor)![KindNeighbor's GitHub stats](https://github-readme-stats-ten-ecru-51.vercel.app/api?username=KindNeighbor&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats-ten-ecru-51.vercel.app/api/top-langs/?username=KindNeighbor&langs_count=10&layout=compact&theme=dark)](https://github.com/KindNeighbor/KindNeighbor)
